@@ -49,8 +49,8 @@ client.on('message', message => {
     const embed = new RichEmbed()
   .setTitle("XSS Bot By ASH Enterprises")
   .setColor(0xFF0000)
-  .setDescription("Welcome to XSS Menu!")
-  .addField('Main Hub', 'XSS is a bot created for Moderation, Games, greetings, and More!. This bot was made by ASH Enterprises. For more info try .Invite')
+  .setDescription("Welcome to LKB Menu!")
+  .addField('Main Hub', 'LKB is a bot created for Moderation, Games, greetings, and More!. This bot was made by ASH Enterprises. For more info try .Invite')
   .setTimestamp()
 
 
@@ -69,7 +69,7 @@ client.on('message', message => {
     // Read more about all that you can do with the constructor
     // over at https://discord.js.org/#/docs/main/stable/class/RichEmbed
     const embed = new RichEmbed()
-  .setTitle("Welcome to XSS Help")
+  .setTitle("Welcome to LKB Help")
   .setColor(0xFF0000)
   .setDescription("This bot is mad by XSS INC. This bot is used for gambiling, music, servers stats, and more!")
   .addField('User Commands', '.Hello-Gives a detailed response to the user\n .rip-Sends the detailed picture RIP\n .WhoA-Sends the who asked picture.\n .Ping-Gets the current servers ms.\n .pong-replies with the response Ping!\n .foo-Responded with Bar\n .F-Gives the person a proper Fin the chat.\n .beer-Responds coming right up!')
